@@ -1,0 +1,10 @@
+/*id message (#message) where game status prints 
+class board (.board)
+    div class sqr (for each space on the board)
+    id 0 -8 (9 total squares)
+
+
+
+
+
+/*
