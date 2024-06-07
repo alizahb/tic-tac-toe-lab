@@ -6,5 +6,9 @@ class board (.board)
 
 
 
+ 
+The addEventListener method will provide the event object for the handle click function:
+    const handleClick = (event) => { console.log(event) placePiece(event.target.id); checkForWinner(); checkForTie(); switchPlayerTurn(); render(); } 
+    -remove valueOf() 
 
-/*
+*/
